@@ -7,6 +7,9 @@ Makefile
 tmp
 .venv
 __pycache__
+**/__pycache__
+*.pyc
+**/*.pyc
 package-lock.json
 *.md
 *.svg
